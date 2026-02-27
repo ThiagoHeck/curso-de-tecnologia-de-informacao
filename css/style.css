@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: blueviolet;
+}
+h1 {
+  color: #0c1172;
+}
+p {
+  line-height: 1.6;
+  font-size: 18px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  background: #fff;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+}

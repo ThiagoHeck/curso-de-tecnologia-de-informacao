@@ -3,10 +3,10 @@ body {
   line-height: 1.8;
   margin: 0;
   padding: 0;
-  color: blueviolet;
+  color: blue;
 }
 h1 {
-  color: #ff08d6;
+  color: #ff00d4;
 }
 p {
   line-height: 1.8;
@@ -17,7 +17,7 @@ ul {
   padding: 0;
 }
 li {
-  background: #fff;
+  background: #010d336e;
   margin: 5px 0;
   padding: 10px;
   border: 1px solid #ddd;

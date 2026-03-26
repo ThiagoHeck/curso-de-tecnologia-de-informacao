@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   color: blue;
+  background-color: pink
 }
 h1 {
   color: #ff00d4;
@@ -17,8 +18,14 @@ ul {
   padding: 0;
 }
 li {
-  background: #010d336e;
+  background: #06c5ff;
   margin: 5px 0;
   padding: 10px;
   border: 1px solid #ddd;
+}
+
+.div-texto {
+
+background-color: crimson; 
+color: darkblue; 
 }

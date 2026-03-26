@@ -4,9 +4,10 @@ body {
   margin: 0;
   padding: 0;
   color: blue;
+  background-color: pink;
 }
-h1 {
-  color: #ff00d4;
+h2 {
+  color: #05ffd5;
 }
 p {
   line-height: 1.8;
@@ -21,4 +22,14 @@ li {
   margin: 5px 0;
   padding: 10px;
   border: 1px solid #ddd;
+}
+.introducao {
+  background: #ff8e8e6e;
+  padding: 20px;
+  border: 3px solid #ddd;
+  color: crimson
+}
+#titulo {
+  color: #ff00d4;
+  text-align: center;
 }
